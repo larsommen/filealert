@@ -1,0 +1,7 @@
+(Get-Item .\test.log).LastWriteTime
+
+Get-Item .\test.log).CreationTime
+
+
+(Get-Item .\test.log).Lastaccesstime
+
