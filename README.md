@@ -1,4 +1,7 @@
 # filealert
+
+Requires PySimpleGUI (install: python -m pip install PySimpleGUI)
+
 alert on different file properties (age, last modified etc.)
 
 usage:
